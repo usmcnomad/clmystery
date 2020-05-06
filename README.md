@@ -1,3 +1,5 @@
+This is a fork of the original Command Line Murders exercise by Noah Veltman.
+
 The Command Line Murders
 ========================
 
